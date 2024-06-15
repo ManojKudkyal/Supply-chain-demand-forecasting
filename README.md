@@ -8,3 +8,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+![suppy chain](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/f72d0bc0-3b27-4fc0-829e-8d87c3c55fb4)
