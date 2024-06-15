@@ -65,7 +65,7 @@ Generate and save visualizations to illustrate the model performance and predict
 ## 1. Prophet
 ![prophet output](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/a54094cf-3476-4edf-a31d-bcb2e81a6f1e)
 
-## 2. Arima
+## 2. ARIMA
 ![arima output](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/55935272-dee1-4e41-85d5-a24ab23cae46)
 
 ## 3. SARIMA 
