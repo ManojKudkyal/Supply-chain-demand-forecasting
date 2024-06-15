@@ -51,5 +51,10 @@ Perform EDA to understand the data distribution, detect patterns, and identify c
 ### 5. Model Training: 
 Train various machine learning and statistical models using the preprocessed data and engineered features. Models could include time series models like ARIMA, SARIMA, Prophet and linear models like linear regression.
 
+### 6. Model Evaluation: 
+Evaluate the trained models using appropriate metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) and Symmetric Mean Absolute Percentage Error(SMAPE). Select the best-performing model based on these evaluations.
+
+### 7. Results Visualization: 
+Generate and save visualizations to illustrate the model performance and predictions. This helps in communicating the results to stakeholders.
 
 
