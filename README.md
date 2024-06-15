@@ -7,17 +7,19 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![suppy chain](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/f72d0bc0-3b27-4fc0-829e-8d87c3c55fb4)
-
 
 # Introduction
-<p>
-  Supply chain analytics serves as a critical tool for organizations aiming to enhance the efficiency and effectiveness of their supply chain operations. By leveraging data-driven insights, supply chain analytics helps optimize operational processes, streamline workflows, and allocate 
+Supply chain analytics serves as a critical tool for organizations aiming to enhance the efficiency and effectiveness of their supply chain operations. By leveraging data-driven insights, supply chain analytics helps optimize operational processes, streamline workflows, and allocate 
 resources efficiently. It plays a pivotal role in demand forecasting and inventory management, 
 enabling organizations to predict market trends, reduce stockouts, and maintain optimal inventory 
 levels. Additionally, supply chain analytics contributes to cost reduction by identifying areas for 
-improvement in procurement, transportation, and overall supply chain costs
-</p>
+improvement in procurement, transportation, and overall supply chain costs.
+
+![suppy chain](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/f72d0bc0-3b27-4fc0-829e-8d87c3c55fb4)
+
+
+
+
 
 
 # Objective of Project
