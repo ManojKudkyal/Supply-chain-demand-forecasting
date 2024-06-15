@@ -60,3 +60,8 @@ Evaluate the trained models using appropriate metrics such as Mean Absolute Erro
 Generate and save visualizations to illustrate the model performance and predictions. This helps in communicating the results to stakeholders.
 
 
+# Outputs of different models
+
+## 1. Prophet
+
+
