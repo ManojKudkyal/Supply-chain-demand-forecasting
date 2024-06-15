@@ -72,3 +72,8 @@ Generate and save visualizations to illustrate the model performance and predict
 ![sarima output](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/ead36fb3-0e8c-47ba-b917-11d9a479149a)
 
 ## 4. Linear Regression
+![linear output](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/f1ae88fc-39c4-4c23-a71e-1e57f26facbf)
+
+# Preformance Metrics
+Performace metric of different model are evaluated and represented in the format of table below
+
