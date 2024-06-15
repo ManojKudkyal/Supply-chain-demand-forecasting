@@ -11,5 +11,45 @@
 
 
 # Introduction
-This project aims to forecast demand in the supply chain using various machine learning and statistical techniques. Accurate demand forecasting is crucial for optimizing inventory levels, reducing costs, and improving customer satisfaction.
+<p>
+  Supply chain analytics serves as a critical tool for organizations aiming to enhance the efficiency and effectiveness of their supply chain operations. By leveraging data-driven insights, supply chain analytics helps optimize operational processes, streamline workflows, and allocate 
+resources efficiently. It plays a pivotal role in demand forecasting and inventory management, 
+enabling organizations to predict market trends, reduce stockouts, and maintain optimal inventory 
+levels. Additionally, supply chain analytics contributes to cost reduction by identifying areas for 
+improvement in procurement, transportation, and overall supply chain costs
+</p>
+
+
+# Objective of Project
+The objective is to implement an advanced forecasting system that leverages predictive analytics, machine learning, and real-time data to provide accurate demand predictions, 
+optimize inventory levels, and enhance overall supply chain resilience. 
+Demand forecasting is essential for businesses to anticipate and plan for future customer 
+demand accurately. By predicting consumer preferences and market trends, organizations can 
+optimize inventory levels, streamline production processes, and enhance overall operational 
+efficiency. This proactive approach minimizes the risk of stockouts or excess inventory, allowing 
+businesses to meet customer needs efficiently
+
+# Data Description
+A Data Set of Supply Chains used by the company DataCo Global was used for the analysis. You can find the dataset in the "Data" folder.
+
+# Project Workflow
+The following is the systematic workflow of the project:
+
+### 1. Data Collection: 
+Gather historical sales data, inventory levels, and any relevant external data (e.g., economic indicators, promotional data).
+Here we used the dataset from kaggle as mentioned above.
+
+### 2. Feature Engineering: 
+Relevant time-related features will be extracted from the date column, and additional features will be created.
+
+### 3. Data Preprocessing: 
+Clean and preprocess the raw data. This includes handling missing values, normalizing/standardizing data, and aggregating data as needed.
+
+### 4. Exploratory Data Analysis (EDA): 
+Perform EDA to understand the data distribution, detect patterns, and identify correlations. Visualization tools are used to aid in this analysis.
+
+### 5. Model Training: 
+Train various machine learning and statistical models using the preprocessed data and engineered features. Models could include time series models like ARIMA, SARIMA, Prophet and linear models like linear regression.
+
+
 
