@@ -82,6 +82,6 @@ Performance metric of different model are evaluated and represented in the forma
 # Addition things done in the project
 1. Converted static data (csv file) to live data using Apache Kafka. (Python scripts can be found in the "Live Data" section)
 2. The live data is been stored on AWS bucket.
-3. Built a live and inteactive dashboard using the live data.
+3. Built a live and inteactive dashboard using the live data. (Can be found in "Dashboard" section)
 This things are done because we were not getting the liva data.
 
