@@ -63,5 +63,5 @@ Generate and save visualizations to illustrate the model performance and predict
 # Outputs of different models
 
 ## 1. Prophet
-
+![prophet output](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/a54094cf-3476-4edf-a31d-bcb2e81a6f1e)
 
