@@ -69,3 +69,6 @@ Generate and save visualizations to illustrate the model performance and predict
 ![arima output](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/55935272-dee1-4e41-85d5-a24ab23cae46)
 
 ## 3. SARIMA 
+![sarima output](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/ead36fb3-0e8c-47ba-b917-11d9a479149a)
+
+## 4. Linear Regression
