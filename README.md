@@ -75,5 +75,5 @@ Generate and save visualizations to illustrate the model performance and predict
 ![linear output](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/f1ae88fc-39c4-4c23-a71e-1e57f26facbf)
 
 # Preformance Metrics
-Performace metric of different model are evaluated and represented in the format of table below
+Performance metric of different model are evaluated and represented in the format of table below
 ![metrics](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/1e5c7364-c1d8-40cc-8e6a-0097fee92a6c)
