@@ -16,7 +16,7 @@ levels. Additionally, supply chain analytics contributes to cost reduction by id
 improvement in procurement, transportation, and overall supply chain costs.
 
 
-
+![9d8fd4_e4ca010161b046d1bd69ae68ba7ee25b~mv2](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/90bd65ac-b602-419c-9ec9-9ff8f9571591)
 
 
 
