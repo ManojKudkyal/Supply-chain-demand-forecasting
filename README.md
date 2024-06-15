@@ -15,7 +15,7 @@ enabling organizations to predict market trends, reduce stockouts, and maintain 
 levels. Additionally, supply chain analytics contributes to cost reduction by identifying areas for 
 improvement in procurement, transportation, and overall supply chain costs.
 
-![suppy chain](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/f72d0bc0-3b27-4fc0-829e-8d87c3c55fb4)
+#![suppy chain](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/f72d0bc0-3b27-4fc0-829e-8d87c3c55fb4)
 
 
 
