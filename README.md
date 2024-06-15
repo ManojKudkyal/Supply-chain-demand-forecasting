@@ -77,3 +77,10 @@ Generate and save visualizations to illustrate the model performance and predict
 # Preformance Metrics
 Performance metric of different model are evaluated and represented in the format of table below
 ![metrics](https://github.com/ManojKudkyal/Supply-chain-demand-forecasting/assets/119351017/1e5c7364-c1d8-40cc-8e6a-0097fee92a6c)
+
+
+# Addition things done in the project
+1. Converted static data (csv file) to live data using apache kafka.
+2. The live data is been stored on AWS bucket.
+3. Built a live and inteactive dashboard using the live data.
+This things are done because we were not getting the liva data.
